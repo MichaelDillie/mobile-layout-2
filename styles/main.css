@@ -1,0 +1,141 @@
+.navbar {
+	background-color: #118BC0;
+	height: 60px;
+}
+
+.bigblue {
+	background-color: #344051;
+	height: 1385px;
+}
+
+.text1 {
+	color: white;
+	font-size: 40px;
+	font-family: sans-serif;
+	text-align: center;
+	padding-top: 200px;
+	padding-left: 120px;
+	width: 450px;
+}
+
+.text2 {
+	color: white;
+	font-size: 20px;
+	font-family: sans-serif;
+	text-align: center;
+	padding-top: 40px;
+	padding-left: 170px;
+	width: 350px;
+}
+
+.bluebar {
+	background-color: #118BC0;
+	height: 65px;
+	width: 250px;
+	margin-top: 40px;
+	margin-left: 210px;
+	border: 10px solid #1F2834;
+}
+
+.babywhite {
+	background-color: white;
+	border: 1px solid black;
+	height: 25px;
+	width: 60px;
+	margin-top: 265px;
+	margin-left: 315px;
+}
+
+.medwhite {
+	background-color: white;
+	height: 85px;
+	width: 375px;
+	margin-top: 165px;
+	margin-left: 165px;
+}
+
+.medwhite2 {
+	background-color: white;
+	height: 85px;
+	width: 375px;
+	margin-top: 35px;
+	margin-left: 165px;
+}
+
+.lightgrey {
+	background-color: #E8F0F5;
+	height: 240px;
+}
+
+.darkgrey {
+	background-color: #D1D3D7;
+	height: 1465px;
+	padding-top: 30px;
+}
+
+.whitebox1 {
+	background-color: white;
+	height: 215px;
+	margin-top: ;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.whitebox {
+	background-color: white;
+	height: 215px;
+	margin-top: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.lightgrey2 {
+	background-color: #E8F0F5;
+	height: 170px;
+	padding-top: 170px;
+}
+
+
+.bluebar2 {
+	background-color: #118BC0;
+	height: 65px;
+	width: 250px;
+	margin-top: 65px;
+	margin-left: 210px;
+}
+
+.bottomnav {
+	background-color: black;
+	height: 170px;
+	padding-top: 30px;
+}
+
+.bntext {
+	color: white;
+	font-weight: inherit;
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 13px;
+	margin-left: 185px;
+}
+
+.bntext2 {
+	color: white;
+	font-weight: inherit;
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 13px;
+	margin-right: 45px;
+	margin-top: 15px;
+}
+
+.bnwb {
+	background-color: white;
+	height: 30px;
+	width: 130px;
+	margin-left: 270px;
+	margin-top: 30px;
+}
+
+
+
