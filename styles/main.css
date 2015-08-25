@@ -7,15 +7,33 @@
 	background-color: #0070A4;
 	height: 60px;
 	margin-left: 575px;
+	padding-top: 20px;
 }
 
 .nbwr {
-	background-color: white;
-	height: 40px;
+	background-color: #118BC0;
+	height: 30px;
 	width: 120px;
 	margin-left: 20px;
 	margin-top: 10px;
+	padding-top: 10px;
 	float: left;
+}
+
+.wordpress {
+	color: white;
+	font-family: sans-serif;
+}
+
+.com {
+	color: #98CEE4;
+	font-family: sans-serif;
+}
+
+.login {
+	color: white;
+	font-family: sans-serif;
+	margin-left: 40px;
 }
 
 .navwb {
@@ -47,6 +65,7 @@
 	color: white;
 	font-size: 20px;
 	font-family: sans-serif;
+	font-weight: lighter;
 	text-align: center;
 	padding-top: 40px;
 	padding-left: 170px;
@@ -62,6 +81,15 @@
 	border: 10px solid #1F2834;
 }
 
+.createweb {
+	color: white;
+	font-family: sans-serif;
+	font-size: 25px;
+	margin-top: 17px;
+	margin-left: 40px;
+	float: left;
+}
+
 .babywhite {
 	background-color: white;
 	border: 1px solid black;
@@ -72,7 +100,7 @@
 }
 
 .medwhite {
-	background-color: white;
+	background-color: #344051;
 	height: 85px;
 	width: 375px;
 	margin-top: 165px;
@@ -80,7 +108,7 @@
 }
 
 .ingreysmall {
-	background-color: #616E7F;
+	background-color: white;
 	height: 75px;
 	width: 60px;
 	margin-top: 10px;
@@ -88,14 +116,30 @@
 }
 
 .ingreylong {
-	background-color: #616E7F;
+	background-color: #344051;
 	height: 75px;
 	width: 300px;
 	margin-left: 70px;
 }
 
+.blueboxhead {
+	color: white;
+	font-family: sans-serif;
+	font-size: 20px;
+	margin-top: 10px;
+	float: left;
+}
+
+.blueboxtext {
+	color: white;
+	font-family: sans-serif;
+	font-weight: lighter;
+	margin-top: 10px;
+	float: left;
+}
+
 .medwhite2 {
-	background-color: white;
+	background-color: #344051;
 	height: 85px;
 	width: 375px;
 	margin-top: 35px;
@@ -103,7 +147,7 @@
 }
 
 .ingreysmall2 {
-	background-color: #616E7F;
+	background-color: white;
 	height: 75px;
 	width: 60px;
 	margin-top: 10px;
@@ -111,7 +155,7 @@
 }
 
 .ingreylong2 {
-	background-color: #616E7F;
+	background-color: #344051;
 	height: 75px;
 	width: 300px;
 	margin-left: 70px;
@@ -121,6 +165,16 @@
 	background-color: #E8F0F5;
 	height: 240px;
 	margin-top: 150px;
+}
+
+.lightgreytext {
+	color: #31415A;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: lighter;
+	font-size: 40px;
+	margin-top: 30px;
+	float: left;
 }
 
 .darkgrey {
@@ -137,6 +191,22 @@
 	padding-top: 10px;
 }
 
+.wbhead {
+	color: #426283;
+	font-family: sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+.wbtext {
+	color: #4B4B4C;
+	font-family: sans-serif;
+	text-align: center;
+	padding-right: 125px;
+	padding-left: 125px;
+	line-height: 1.6
+}
+
 .inwbgreys {
 	background-color: #C7D2D8;
 	height: 80px;
@@ -147,7 +217,7 @@
 }
 
 .inwbgreyrs {
-	background-color: #C7D2D8;
+	background-color: white;
 	height: 30px;
 	margin-left: 20px;
 	margin-right: 20px;
@@ -155,7 +225,7 @@
 }
 
 .inwbgreyrl {
-	background-color: #C7D2D8;
+	background-color: white;
 	height: 80px;
 	margin-right: 20px;
 	margin-left: 20px;
@@ -177,6 +247,13 @@
 	padding-top: 40px;
 }
 
+.powers {
+	color: #314156;
+	font-family: sans-serif;
+	font-weight: lighter;
+	font-size: 30px;
+	text-align: center;
+}
 
 .bluebar2 {
 	background-color: #118BC0;
@@ -198,7 +275,7 @@
 	font-family: sans-serif;
 	text-align: center;
 	font-size: 13px;
-	margin-left: 155px;
+	margin-left: 145px;
 	text-decoration: none;
 }
 
@@ -219,12 +296,13 @@ a {
 }
 
 .bnwb {
-	background-color: white;
+	background-color: black;
 	height: 30px;
 	width: 130px;
 	margin-left: 270px;
 	margin-top: 30px;
 }
+
 
 
 
