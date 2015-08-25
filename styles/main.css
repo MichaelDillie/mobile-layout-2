@@ -3,9 +3,34 @@
 	height: 60px;
 }
 
+.darkblue {
+	background-color: #0070A4;
+	height: 60px;
+	margin-left: 575px;
+}
+
+.nbwr {
+	background-color: white;
+	height: 40px;
+	width: 120px;
+	margin-left: 20px;
+	margin-top: 10px;
+	float: left;
+}
+
+.navwb {
+	background-color: white;
+	height: 40px;
+	width: 40px;
+	margin-left: 20px;
+	margin-top: 10px;
+	float: left;
+}
+
 .bigblue {
 	background-color: #344051;
 	height: 1385px;
+	padding-bottom: 100px;
 }
 
 .text1 {
@@ -54,6 +79,21 @@
 	margin-left: 165px;
 }
 
+.ingreysmall {
+	background-color: #616E7F;
+	height: 75px;
+	width: 60px;
+	margin-top: 10px;
+	float: left;
+}
+
+.ingreylong {
+	background-color: #616E7F;
+	height: 75px;
+	width: 300px;
+	margin-left: 70px;
+}
+
 .medwhite2 {
 	background-color: white;
 	height: 85px;
@@ -62,37 +102,79 @@
 	margin-left: 165px;
 }
 
+.ingreysmall2 {
+	background-color: #616E7F;
+	height: 75px;
+	width: 60px;
+	margin-top: 10px;
+	float: left;
+}
+
+.ingreylong2 {
+	background-color: #616E7F;
+	height: 75px;
+	width: 300px;
+	margin-left: 70px;
+}
+
 .lightgrey {
 	background-color: #E8F0F5;
 	height: 240px;
+	margin-top: 150px;
 }
 
 .darkgrey {
 	background-color: #D1D3D7;
-	height: 1465px;
+	height: 1855px;
 	padding-top: 30px;
 }
 
 .whitebox1 {
 	background-color: white;
-	height: 215px;
-	margin-top: ;
+	height: 280px;
 	margin-left: 10px;
 	margin-right: 10px;
+	padding-top: 10px;
+}
+
+.inwbgreys {
+	background-color: #C7D2D8;
+	height: 80px;
+	width: 80px;
+	margin-top: 20px;
+	margin-left: 300px;
+	float: left;
+}
+
+.inwbgreyrs {
+	background-color: #C7D2D8;
+	height: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 115px;
+}
+
+.inwbgreyrl {
+	background-color: #C7D2D8;
+	height: 80px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 15px;
 }
 
 .whitebox {
 	background-color: white;
-	height: 215px;
-	margin-top: 30px;
+	height: 280px;
+	margin-top: 20px;
 	margin-left: 10px;
 	margin-right: 10px;
+	padding-top: 10px;
 }
 
 .lightgrey2 {
 	background-color: #E8F0F5;
-	height: 170px;
-	padding-top: 170px;
+	height: 200px;
+	padding-top: 40px;
 }
 
 
@@ -116,7 +198,8 @@
 	font-family: sans-serif;
 	text-align: center;
 	font-size: 13px;
-	margin-left: 185px;
+	margin-left: 155px;
+	text-decoration: none;
 }
 
 .bntext2 {
@@ -125,8 +208,14 @@
 	font-family: sans-serif;
 	text-align: center;
 	font-size: 13px;
-	margin-right: 45px;
 	margin-top: 15px;
+	text-decoration: none;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	margin: 0 16px 0 0;
 }
 
 .bnwb {
