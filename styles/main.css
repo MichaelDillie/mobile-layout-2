@@ -6,7 +6,7 @@
 .darkblue {
 	background-color: #0070A4;
 	height: 60px;
-	margin-left: 575px;
+	margin-left: 600px;
 	padding-top: 20px;
 }
 
@@ -23,17 +23,23 @@
 .wordpress {
 	color: white;
 	font-family: sans-serif;
+	margin-top: 3px;
+	float: left;
 }
 
 .com {
 	color: #98CEE4;
 	font-family: sans-serif;
+	margin-top: 3px;
+	float: left;
 }
 
 .login {
 	color: white;
 	font-family: sans-serif;
-	margin-left: 40px;
+	margin-left: 30px;
+	margin-top: 3px;
+	float: left;
 }
 
 .navwb {
@@ -43,12 +49,19 @@
 	margin-left: 20px;
 	margin-top: 10px;
 	float: left;
+	overflow: hidden;
+}
+
+img {
+	height: 100%;
+	width: 100%;
 }
 
 .bigblue {
 	background-color: #344051;
 	height: 1385px;
 	padding-bottom: 100px;
+	background-image: url(../images/crowd.jpg);
 }
 
 .text1 {
@@ -72,13 +85,21 @@
 	width: 350px;
 }
 
+.wrapper {
+	padding: 10px;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+	background: rgba(0,0,0,0.3);
+	margin-top: 40px;
+
+}
 .bluebar {
 	background-color: #118BC0;
 	height: 65px;
 	width: 250px;
-	margin-top: 40px;
-	margin-left: 210px;
-	border: 10px solid #1F2834;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .createweb {
@@ -91,16 +112,14 @@
 }
 
 .babywhite {
-	background-color: white;
-	border: 1px solid black;
-	height: 25px;
-	width: 60px;
+	color: white;
 	margin-top: 265px;
-	margin-left: 315px;
+	text-align: center;
+	display: block;
 }
 
 .medwhite {
-	background-color: #344051;
+	background-color: transparent;
 	height: 85px;
 	width: 375px;
 	margin-top: 165px;
@@ -108,15 +127,14 @@
 }
 
 .ingreysmall {
-	background-color: white;
+	background-color: transparent;
 	height: 75px;
 	width: 60px;
-	margin-top: 10px;
 	float: left;
 }
 
 .ingreylong {
-	background-color: #344051;
+	background-color: transparent;
 	height: 75px;
 	width: 300px;
 	margin-left: 70px;
@@ -139,7 +157,7 @@
 }
 
 .medwhite2 {
-	background-color: #344051;
+	background-color: transparent;
 	height: 85px;
 	width: 375px;
 	margin-top: 35px;
@@ -147,15 +165,14 @@
 }
 
 .ingreysmall2 {
-	background-color: white;
+	background-color: transparent;
 	height: 75px;
 	width: 60px;
-	margin-top: 10px;
 	float: left;
 }
 
 .ingreylong2 {
-	background-color: #344051;
+	background-color: transparent;
 	height: 75px;
 	width: 300px;
 	margin-left: 70px;
@@ -164,7 +181,8 @@
 .lightgrey {
 	background-color: #E8F0F5;
 	height: 240px;
-	margin-top: 150px;
+	padding-right: 75px;
+	padding-left: 75px;
 }
 
 .lightgreytext {
@@ -172,8 +190,9 @@
 	text-align: center;
 	font-family: sans-serif;
 	font-weight: lighter;
-	font-size: 40px;
+	font-size: 30px;
 	margin-top: 30px;
+	line-height: 1.6;
 	float: left;
 }
 
@@ -202,18 +221,27 @@
 	color: #4B4B4C;
 	font-family: sans-serif;
 	text-align: center;
-	padding-right: 125px;
-	padding-left: 125px;
+	padding-right: 65px;
+	padding-left: 65px;
+	font-size: 20px;
 	line-height: 1.6
 }
 
 .inwbgreys {
 	background-color: #C7D2D8;
-	height: 80px;
-	width: 80px;
+	height: 90px;
+	width: 90px;
 	margin-top: 20px;
-	margin-left: 300px;
-	float: left;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50px;
+}
+
+.greyimg {
+	height: 50px;
+	width: 50px;
+	margin-left: 20px;
+	margin-top: 20px;
 }
 
 .inwbgreyrs {
@@ -221,7 +249,7 @@
 	height: 30px;
 	margin-left: 20px;
 	margin-right: 20px;
-	margin-top: 115px;
+	margin-top: 10px;
 }
 
 .inwbgreyrl {
@@ -260,7 +288,8 @@
 	height: 65px;
 	width: 250px;
 	margin-top: 65px;
-	margin-left: 210px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .bottomnav {
@@ -296,11 +325,18 @@ a {
 }
 
 .bnwb {
-	background-color: black;
+	background-color: white;
 	height: 30px;
-	width: 130px;
-	margin-left: 270px;
+	width: 150px;
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 30px;
+}
+
+.automattic {
+	margin-left: auto;
+	margin-right: auto;
+
 }
 
 
